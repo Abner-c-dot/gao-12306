@@ -4,6 +4,12 @@
     <file url="file://$PROJECT_DIR$/frameworks/bizs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frameworks/bizs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frameworks/bizs/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/frameworks/convention/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/distributedid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/idempotent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frameworks/web/src/main/java" charset="UTF-8" />
   </component>
 </project>
